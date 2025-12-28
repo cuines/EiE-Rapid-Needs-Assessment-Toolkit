@@ -50,17 +50,23 @@ Focus on quantitative and qualitative data that directly informs programming dec
 ## 3.0 Security and Ethical Considerations
 Conducting assessments in volatile environments requires strict adherence to safety and ethical standards.
 
-### 3.1 Do No Harm
+### 3.1 Protocol for Identifying and Marking Safe Learning Spaces
+* Establish clear criteria for what constitutes a "safe" learning space (structural integrity, distance from hazards, availability of safe routes, etc.).
+* Work with community members to identify and map potential safe spaces (schools, community centres, temporary structures).
+* Develop a simple marking system (e.g., colour‑coded signs, flags) to visibly indicate the safety status of a learning space.
+* Regularly review and update safety assessments as the security situation evolves.
+
+### 3.2 Do No Harm
 * Ensure assessment activities do not exacerbate existing tensions or create new risks.
 * Obtain informed consent from all participants, explaining the purpose and use of the data.
 * Protect the anonymity and confidentiality of sensitive information.
 
-### 3.2 Security Protocols
+### 3.3 Security Protocols
 * Coordinate with local authorities and security‑focal points before field visits.
 * Use safe and agreed‑upon communication channels.
 * Establish clear evacuation and contingency plans for assessment teams.
 
-### 3.3 Inclusive Participation
+### 3.4 Inclusive Participation
 * Actively seek the perspectives of marginalized groups (girls, children with disabilities, ethnic minorities).
 * Use accessible communication methods (local language, sign language, pictograms).
 * Ensure assessment teams are gender‑balanced and culturally sensitive.
